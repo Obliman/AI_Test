@@ -1,10 +1,8 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\WaypointRender.cs">
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Float.cs">
     <Files>
-      <File FileName="Assets\Scripts\Gather.cs" Line="15" Column="3" />
-      <File FileName="Assets\Scripts\MoveLogic.cs" Line="32" Column="21" />
-      <File FileName="Assets\Scripts\WaypointRender.cs" Line="20" Column="43" />
+      <File FileName="Assets\Scripts\Float.cs" Line="11" Column="45" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

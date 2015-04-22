@@ -4,11 +4,8 @@ using System.Collections;
 public class WaypointRender : MonoBehaviour {
 
 	Vector3 target;
-
-	// Use this for initialization
-	void Start () {
-	}
 	
+	//Draw markers for each waypoint
 	void OnGUI(){
 		for(int i = 0;i < MoveLogic.waypoints.Count;i++){
 			target = Camera.main.WorldToScreenPoint(MoveLogic.waypoints[i]);
